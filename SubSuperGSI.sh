@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script para modificar super.img com GSI no Termux
+# Script para trocar as system.img presente na super.img por uma imagem GSI, no Termux
 # Autor: Vinícius
 # Versão: 1.1 - Otimizado e Validado
 
